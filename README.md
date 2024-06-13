@@ -58,6 +58,6 @@ Speak to loki: Begin speaking to the system. Use the hotwords like "Hey loki" to
 Modify the script's hot_words list to customize the trigger words according to your preference.
 Tweak the energy_threshold, record_timeout, and phrase_timeout settings to optimize speech detection based on your environment.
 
-##Notes
+## Notes
 Ensure that your API keys and model access privileges are correctly configured before running the script.
 The quality of TTS output and the responsiveness of the assistant depend on the selected models and system performance.
